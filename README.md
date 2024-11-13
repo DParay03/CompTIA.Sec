@@ -1,2 +1,2 @@
 # CompTIA.Sec
-A repository containing all projects related to CompTIA Sec+ certification.
+Projects related to CompTIA Sec+ certification.
